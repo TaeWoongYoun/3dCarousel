@@ -17,7 +17,7 @@
     height: 150px;
     position: relative;
     transform-style: preserve-3d;
-    animation: spin 18s infinite linear;
+    animation: spin 9s infinite linear;
 }
 
 .item{
@@ -103,7 +103,7 @@
         transform: rotateY(0deg);
     }
 
-    6%{
+    /* 6%{
         transform: rotateY(0deg);
     }
 
@@ -173,7 +173,7 @@
 
     99%{
         transform: rotateY(-360deg);
-    }
+    } */
 
     100%{
         transform: rotateY(-360deg);
